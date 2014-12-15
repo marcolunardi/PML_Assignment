@@ -1,0 +1,10 @@
+---
+title: "README.md"
+author: "Marco Lunardi"
+date: "15 December 2014"
+output: html_document
+---
+
+Please go to the following link to see the HTML page on the web, thank you:
+
+http://marcolunardi.github.io/PML_Assignment/
